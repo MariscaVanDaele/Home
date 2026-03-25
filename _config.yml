@@ -1,0 +1,9 @@
+theme: just-the-docs
+
+title: My Documentation Site
+description: A simple docs site
+
+# Enable navigation
+just_the_docs:
+  navigation:
+    collapse: false
